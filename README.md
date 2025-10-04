@@ -11,7 +11,7 @@ A simple Python program created by **Manasa** that calculates Body Mass Index (B
   - ObeseR
   - Severely Obese
   - Morbidly Obese
-- User-friendly input and output
+- User-friendly input and outputgit 
 
 ## 🛠️ How to Run
 1. Download or clone the repository:
@@ -21,4 +21,4 @@ A simple Python program created by **Manasa** that calculates Body Mass Index (B
    ## 📊 Example Output
 
  ### Terminal Run Screenshot
->> ![BMI Calculator Output](Screenshot-1.png)
+>> ![BMI Calculator Output](Output_Screenshot.png)
