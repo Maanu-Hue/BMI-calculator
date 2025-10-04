@@ -1,4 +1,4 @@
-# 🧮 BMI Calculator
+# BMI Calculator
 
 A simple Python program created by **Manasa** that calculates Body Mass Index (BMI) and classifies it into categories.
 
