@@ -17,3 +17,8 @@ A simple Python program created by **Manasa** that calculates Body Mass Index (B
 1. Download or clone the repository:
    ```bash
    git clone https://github.com/Maanu-Hue/BMI-calculator.git
+
+   ## 📊 Example Output
+
+ ### Terminal Run Screenshot
+>> ![BMI Calculator Output](Screenshot-1.png)
