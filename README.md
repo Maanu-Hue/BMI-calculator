@@ -1,2 +1,19 @@
-# BMI-calculator
-A simple Python program to calculate Body Mass Index (BMI)
+# 🧮 BMI Calculator
+
+A simple Python program created by **Manasa** that calculates Body Mass Index (BMI) and classifies it into categories.
+
+## 🚀 Features
+- Calculates BMI from user input (weight in kg, height in meters)
+- Provides BMI category:
+  - Underweight
+  - Normal weight
+  - Overweight
+  - ObeseR
+  - Severely Obese
+  - Morbidly Obese
+- User-friendly input and output
+
+## 🛠️ How to Run
+1. Download or clone the repository:
+   ```bash
+   git clone https://github.com/Maanu-Hue/BMI-calculator.git
